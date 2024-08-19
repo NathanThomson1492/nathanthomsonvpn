@@ -1,7 +1,8 @@
-# nathanthomsonvpn
-<p align="center">
 
-</p>
+<p align="center"></p>
+
+![image](https://github.com/user-attachments/assets/8f6c3b05-cf00-470e-8d8c-82ef39916863)
+
 
 <h1>VPN -- Installation and Setup</h1>
 This tutorial outlines how to install and setup a virtual private network.<br />
